@@ -1,5 +1,5 @@
-# ESP8266 LED Control
-
+# ESP8266 LED Control Access Point Mode
+ 
 ## Description
 
 This project uses the ESP8266 microcontroller to create a Wi-Fi access point (AP) that hosts a simple web server for controlling an LED. Users can turn the LED on or off using buttons on the web page. The HTML content is stored in flash memory to save space.
